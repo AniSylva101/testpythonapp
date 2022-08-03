@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pulledfromgit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A195221544A54EFB8E86793E1F4FA469 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE0C2E9FF3554CC496A4AA90E6A67D53 }}
